@@ -1,0 +1,4 @@
+com/notes/dao/NoteDAO.class
+com/notes/util/DB.class
+com/notes/servlet/NoteServlet.class
+com/notes/model/Note.class
