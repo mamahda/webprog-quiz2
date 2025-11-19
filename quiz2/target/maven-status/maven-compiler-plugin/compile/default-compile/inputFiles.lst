@@ -1,7 +1,7 @@
-/home/mamahda/Kuliah/Semester_3/PemWeb_Quiz_2/quiz2/src/main/java/com.notes/dao/NoteDAO.java
-/home/mamahda/Kuliah/Semester_3/PemWeb_Quiz_2/quiz2/src/main/java/com.notes/servlet/AuthServlet.java
-/home/mamahda/Kuliah/Semester_3/PemWeb_Quiz_2/quiz2/src/main/java/com.notes/util/DB.java
-/home/mamahda/Kuliah/Semester_3/PemWeb_Quiz_2/quiz2/src/main/java/com.notes/model/Note.java
-/home/mamahda/Kuliah/Semester_3/PemWeb_Quiz_2/quiz2/src/main/java/com.notes/model/User.java
-/home/mamahda/Kuliah/Semester_3/PemWeb_Quiz_2/quiz2/src/main/java/com.notes/dao/UserDAO.java
-/home/mamahda/Kuliah/Semester_3/PemWeb_Quiz_2/quiz2/src/main/java/com.notes/servlet/NoteServlet.java
+D:\Documents\Kuliah\Semester 3\PWEB\quiz2\webprog-quiz2\quiz2\src\main\java\com.notes\dao\UserDAO.java
+D:\Documents\Kuliah\Semester 3\PWEB\quiz2\webprog-quiz2\quiz2\src\main\java\com.notes\util\DB.java
+D:\Documents\Kuliah\Semester 3\PWEB\quiz2\webprog-quiz2\quiz2\src\main\java\com.notes\model\Note.java
+D:\Documents\Kuliah\Semester 3\PWEB\quiz2\webprog-quiz2\quiz2\src\main\java\com.notes\model\User.java
+D:\Documents\Kuliah\Semester 3\PWEB\quiz2\webprog-quiz2\quiz2\src\main\java\com.notes\servlet\NoteServlet.java
+D:\Documents\Kuliah\Semester 3\PWEB\quiz2\webprog-quiz2\quiz2\src\main\java\com.notes\servlet\AuthServlet.java
+D:\Documents\Kuliah\Semester 3\PWEB\quiz2\webprog-quiz2\quiz2\src\main\java\com.notes\dao\NoteDAO.java

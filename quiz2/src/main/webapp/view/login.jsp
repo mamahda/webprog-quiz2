@@ -18,7 +18,9 @@
             <input type="password" name="password" class="auth-input" placeholder="Password" required>
             <button type="submit" class="auth-btn">Login</button>
         </form>
-        <a href="register.jsp" class="auth-link">Create an account</a>
+        <a href="${pageContext.request.contextPath}/view/register.jsp" class="auth-link">
+            Create an account
+        </a>
     </div>
 </body>
 </html>
