@@ -1,7 +1,0 @@
-com\notes\model\Note.class
-com\notes\dao\NoteDAO.class
-com\notes\model\User.class
-com\notes\servlet\AuthServlet.class
-com\notes\servlet\NoteServlet.class
-com\notes\util\DB.class
-com\notes\dao\UserDAO.class
